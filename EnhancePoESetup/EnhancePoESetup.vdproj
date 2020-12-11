@@ -489,7 +489,7 @@
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_1CE7B4FD4D5044FD9BF18E20C4777EC6"
             {
-            "SourcePath" = "8:..\\EnhacePoE\\Bases\\GlovesBases.txt"
+            "SourcePath" = "8:..\\EnhancePoE\\Bases\\GlovesBases.txt"
             "TargetName" = "8:GlovesBases.txt"
             "Tag" = "8:"
             "Folder" = "8:_29AF4522D06C47D6AB96B231026D3B15"
@@ -509,7 +509,7 @@
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_284DAABA917F429FAC52ACE1D0C58192"
             {
-            "SourcePath" = "8:..\\EnhacePoE\\Bases\\WeaponSmallBases.txt"
+            "SourcePath" = "8:..\\EnhancePoE\\Bases\\WeaponSmallBases.txt"
             "TargetName" = "8:WeaponSmallBases.txt"
             "Tag" = "8:"
             "Folder" = "8:_29AF4522D06C47D6AB96B231026D3B15"
@@ -529,7 +529,7 @@
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_29950925A5354710A09B8A3061AECF59"
             {
-            "SourcePath" = "8:..\\EnhacePoE\\Bases\\BodyArmourBases.txt"
+            "SourcePath" = "8:..\\EnhancePoE\\Bases\\BodyArmourBases.txt"
             "TargetName" = "8:BodyArmourBases.txt"
             "Tag" = "8:"
             "Folder" = "8:_29AF4522D06C47D6AB96B231026D3B15"
@@ -580,7 +580,7 @@
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_3F8C600B2DD24686AF692BF67B5E8BFD"
             {
-            "SourcePath" = "8:..\\EnhacePoE\\Bases\\RingBases.txt"
+            "SourcePath" = "8:..\\EnhancePoE\\Bases\\RingBases.txt"
             "TargetName" = "8:RingBases.txt"
             "Tag" = "8:"
             "Folder" = "8:_29AF4522D06C47D6AB96B231026D3B15"
@@ -631,7 +631,7 @@
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_6DD24CD69D624A58ABFCD67B8C07260D"
             {
-            "SourcePath" = "8:..\\EnhacePoE\\Bases\\AmuletBases.txt"
+            "SourcePath" = "8:..\\EnhancePoE\\Bases\\AmuletBases.txt"
             "TargetName" = "8:AmuletBases.txt"
             "Tag" = "8:"
             "Folder" = "8:_29AF4522D06C47D6AB96B231026D3B15"
@@ -651,7 +651,7 @@
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_7D74E4507D204C33A47FD465263C87D1"
             {
-            "SourcePath" = "8:..\\EnhacePoE\\Resources\\gold-removebg-preview.ico"
+            "SourcePath" = "8:..\\EnhancePoE\\Resources\\gold-removebg-preview.ico"
             "TargetName" = "8:gold-removebg-preview.ico"
             "Tag" = "8:"
             "Folder" = "8:_FB266262ED8B4D5BA43E50F9DA438A8E"
@@ -795,7 +795,7 @@
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_B7CACDB8859A49CE862E3E04766D2D8B"
             {
-            "SourcePath" = "8:..\\EnhacePoE\\Bases\\BeltBases.txt"
+            "SourcePath" = "8:..\\EnhancePoE\\Bases\\BeltBases.txt"
             "TargetName" = "8:BeltBases.txt"
             "Tag" = "8:"
             "Folder" = "8:_29AF4522D06C47D6AB96B231026D3B15"
@@ -877,7 +877,7 @@
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_CBD3A552E17644919B0C64CE2333E01F"
             {
-            "SourcePath" = "8:..\\EnhacePoE\\Bases\\BootsBases.txt"
+            "SourcePath" = "8:..\\EnhancePoE\\Bases\\BootsBases.txt"
             "TargetName" = "8:BootsBases.txt"
             "Tag" = "8:"
             "Folder" = "8:_29AF4522D06C47D6AB96B231026D3B15"
@@ -928,7 +928,7 @@
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_D44FCA1A5E2F4F5BA0569C88ED95C1E4"
             {
-            "SourcePath" = "8:..\\EnhacePoE\\Bases\\HelmetBases.txt"
+            "SourcePath" = "8:..\\EnhancePoE\\Bases\\HelmetBases.txt"
             "TargetName" = "8:HelmetBases.txt"
             "Tag" = "8:"
             "Folder" = "8:_29AF4522D06C47D6AB96B231026D3B15"
@@ -1740,7 +1740,7 @@
         {
             "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_4A407A2711BB4296956B16ED5540F321"
             {
-            "SourcePath" = "8:..\\EnhacePoE\\obj\\Release\\EnhancePoE.exe"
+            "SourcePath" = "8:..\\EnhancePoE\\obj\\Release\\EnhancePoE.exe"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_FB266262ED8B4D5BA43E50F9DA438A8E"
